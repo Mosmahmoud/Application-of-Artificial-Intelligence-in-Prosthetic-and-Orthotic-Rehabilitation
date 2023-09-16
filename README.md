@@ -1,10 +1,12 @@
 # Application-of-Artificial-Intelligence-in-Prosthetic-and-Orthotic-Rehabilitation
  
 
-![image](https://github.com/Mosmahmoud/Application-of-Artificial-Intelligence-in-Prosthetic-and-Orthotic-Rehabilitation/assets/94164308/e03da53f-e361-4081-8c05-2ca011570a2e)
+![Screenshot (103)](https://github.com/Mosmahmoud/Application-of-Artificial-Intelligence-in-Prosthetic-and-Orthotic-Rehabilitation/assets/94164308/65a0be39-dfc9-45e8-8822-19007d69d221)
 
 
-![image](https://github.com/Mosmahmoud/Application-of-Artificial-Intelligence-in-Prosthetic-and-Orthotic-Rehabilitation/assets/94164308/1b9074e5-45a5-41b6-adce-d6bd81a5e67f)
+
+![Screenshot (104)](https://github.com/Mosmahmoud/Application-of-Artificial-Intelligence-in-Prosthetic-and-Orthotic-Rehabilitation/assets/94164308/e613ee8b-9de7-4df5-ba65-6f6e1a38340c)
+
 
 Gait Cycle
 
